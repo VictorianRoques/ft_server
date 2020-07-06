@@ -4,8 +4,6 @@
 
 # Ressources
 
-First test shh docker exec: https://phoenixnap.com/kb/how-to-ssh-into-docker-container
+Redirect http to https: https://linuxize.com/post/redirect-http-to-https-in-nginx/
 
-Running interactive debian shell: https://docs.docker.com/engine/docker-overview/, https://stackoverflow.com/questions/34863645/how-can-i-keep-a-docker-debian-container-open
-
-Redirect http to https: https://serversforhackers.com/c/redirect-http-to-https-nginx
+Generate self signed SSL: https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-debian-10
